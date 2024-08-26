@@ -1,0 +1,1 @@
+Renomear arquivo "linhas1.txt"/ "linhas2.txt"/ "linhas3.txt" para "linhas.txt" e executar o código.
